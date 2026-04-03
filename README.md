@@ -21,15 +21,14 @@ Currently building projects to develop strong skills in:
 - Python  
 
 ## Projects
-- LeetCode / DSA Solutions
+### LeetCode / DSA Solutions
  - Structured solutions with explanations and complexity analysis
  - https://github.com/raphael-nazareno/leetcode-solutions
-- Python Practice
+### Python Practice
  - Learning core Python concepts and problem solving
  - https://github.com/raphael-nazareno/python-practice
 
 ## Goals
-
 - Develop strong problem-solving and algorithmic thinking skills
 - Build quantitative finance and data-driven projects
 - Prepare for software engineering / quant internships
