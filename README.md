@@ -42,7 +42,7 @@ Currently building a strong foundation in:
 - Features customer management, accommodation booking, lift passes, lessons, validation, file persistence, and bonus features such as filtering, sorting, and bundle cancellation.
 - Built using object-oriented programming concepts including abstraction, inheritance, interfaces, enums, and exception handling.
 
-[Mt Buller Travel Bundle System Repository](https://github.com/your-username/your-repo-name)
+[Mt Buller Travel Bundle System Repository](https://github.com/raphael-nazareno/java-travel-bundle-system)
 
 ## Goals
 - Develop strong problem-solving and algorithmic thinking skills
